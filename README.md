@@ -1,4 +1,4 @@
-## Neural Network
+<h1 align="center"> 🧠 Multi-layer Perceptron Neural Network 🧠 </h1>
 
 A neural network that can be trained to recognize human handwritten characters, a task that is very difficult with traditional approaches to computing.
 
